@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 🌱 I'm in the process of learning Docker.
 - 👯 I'm interested in collaborating with forward-thinking technology startups.
 - 🤔 I could use some assistance in honing my coding skills, particularly in the realm of AI.
-- 💬 Feel free to ask me about my recent trips to Dubai, UAE🇦🇪, and Wuppertal, Germany🇩🇪, and the memorable experiences I had there.
+- 💬 Feel free to ask me about my recent trips to Dubai(🇦🇪) and Wuppertal(🇩🇪) and the memorable experiences I had there.
 - 📫 You can reach out to me via email at [v_mandora@yahoo.com].
+- 📱 You can reach out to me via WhatsApp at [https://wa.me/+919016658590].
 - 😄 Please use they/them pronouns when referring to me.
 - ⚡ Here's a fun fact: I once found myself coming up with logical ideas in my dreams while asleep.
