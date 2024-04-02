@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm Vishal Mandora, and I'm delighted to have the opportunity to introduce myself to you. I'm a Software Developer with a passion for Tailwind CSS, Alpine.js, Laravel, Livewire, and I'm always eager to Learn something new everyday. In my free time, you'll often find me in front of MacBook exploring web.
+I'm Vishal Mandora, and I'm delighted to have the opportunity to introduce myself to you. I'm a Software Engineer with a passion for Tailwind CSS, Alpine.js, Laravel, Livewire, and I'm always eager to Learn something new everyday. In my free time, you'll often find me in front of MacBook💻 exploring web🕸️
 
 Feel free to reach out if you'd like to chat about Projects you're working on, collaborate on exciting projects, or simply have a friendly conversation. I'm looking forward to connecting with you and getting to know more about your interests and experiences as well! 😄🌟
 
@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me about my recent trips to Dubai(🇦🇪) and Wuppertal(🇩🇪) and the memorable experiences I had there.
 - 📫 You can reach out to me via email at [v_mandora@yahoo.com].
 - 📱 You can reach out to me via WhatsApp at [https://wa.me/+919016658590].
-- 😄 Please use they/them pronouns when referring to me.
 - ⚡ Here's a fun fact: I once found myself coming up with logical ideas in my dreams while asleep.
